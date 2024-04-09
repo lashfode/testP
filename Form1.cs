@@ -15,6 +15,7 @@ namespace testP
         static int a = 0;
         static int b = 1;
         static int c = 2;
+        static int d = 3;
 
         public Form1()
         {

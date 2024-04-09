@@ -1,0 +1,10 @@
+C:\Users\AI11\source\repos\testP\bin\Debug\testP.exe.config
+C:\Users\AI11\source\repos\testP\bin\Debug\testP.exe
+C:\Users\AI11\source\repos\testP\bin\Debug\testP.pdb
+C:\Users\AI11\source\repos\testP\obj\Debug\testP.csproj.AssemblyReference.cache
+C:\Users\AI11\source\repos\testP\obj\Debug\testP.Properties.Resources.resources
+C:\Users\AI11\source\repos\testP\obj\Debug\testP.csproj.GenerateResource.cache
+C:\Users\AI11\source\repos\testP\obj\Debug\testP.csproj.CoreCompileInputs.cache
+C:\Users\AI11\source\repos\testP\obj\Debug\testP.exe
+C:\Users\AI11\source\repos\testP\obj\Debug\testP.pdb
+C:\Users\AI11\source\repos\testP\obj\Debug\testP.Form1.resources
